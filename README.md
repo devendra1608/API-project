@@ -68,4 +68,4 @@ This is a simple web application that allows users to send anonymous confessions
 ## Acknowledgements
 
 - Special thanks to the creators of the backend API used in this project.
-- Also special thanks to RISHIKESH SIR and AKASH SIR for thier help in making this project work
+- Also special thanks to RISHIKESH SIR and AKASH SIR for their help in making this project work
